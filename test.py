@@ -1,0 +1,1 @@
+print 'New order of the GIT world!'
